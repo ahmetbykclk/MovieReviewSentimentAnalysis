@@ -4,9 +4,18 @@ This is a simple Python-based Movie Review Sentiment Analysis project that uses 
 
 ## Table of Contents
 
+- [Dataset](#dataset)
 - [Requirements](#requirements)
 - [How it Works](#how-it-works)
 - [Usage](#usage)
+
+## Dataset
+
+The dataset file Dataset.csv contains the movie reviews and their corresponding sentiments (positive or negative). The CSV format should have two columns, "Review" and "Sentiment."
+
+You can download my dataset directly from this link:
+
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/download?datasetVersionNumber=1
 
 ## Requirements
 
